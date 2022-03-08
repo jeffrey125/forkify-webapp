@@ -13,6 +13,8 @@ A showcase of my Javascript skill by making a Recipe Search Web app
 
 -Use of JSDoc for Documentation
 
+-localStorage API
+
 You can visit the site here: https://forkify-jeff125.netlify.app/
 
 
