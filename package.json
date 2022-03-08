@@ -1,0 +1,21 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe Web App",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Jeff Asilo",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.2",
+    "parcel": "^2.3.2"
+  },
+  "dependencies": {
+    "core-js": "^3.21.1",
+    "fracty": "^1.0.9",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
